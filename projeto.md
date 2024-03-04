@@ -1,17 +1,18 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *No Dobouts*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Cauã Rodrigo de Almeida da Silva|Gerente de Projeto|cauarodrigoalmeidasilva@gmail.com|
+|Rodolfo Bezerra Lisboa |Dev.Fullstack|rodolfo.bezerra@estudante.ifro.edu.br|
+|Bruno Henrique Scharf Silva|Banco de Dados|henriquescharf270@gmail.com|
+|Francielli Daiane Oliveira Dias|Design|daianeoliveiradiasf017@gmail.com|
+|Jonas Lima da Silva|Administrador de Redes|jonaslimadasilva2022@gmail.com|
+|Jholemar Adonai Souza Balbino|Dev. Fullstack|Adonaisousa52@gmail.com|
 
 
 # Sumário
@@ -82,8 +83,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Cadestramento| O úsuario se cadastrar com nome,email e senha |
+|RF-002 | Editar Perfil |Úsuario poder adicionar informaçãoes ao perfil |
+|RF-003 | Adicionar Amigos |Adiocionar outras pessoa como amigos |
+|RF-004 | Adicionar Canais |O usuario pode adicionar canais de bate-papo|
+|RF-005 | Fazer login |Úsuario fazer login no sistema |
+|RF-006 | Fixar Canais | O úsuario poder fixar seus canais favoritos|
+|RF-007 | Favoritar Canais |O úsuario poder adicionar canais como favorito|
+|RF-008 | Filtrar Canais | O úsuario poder pesquisar contéudos do seu interrese |
+|RF-009 | Reportar| Reportar violação da comunidade |
+|RF-010 | Bloquear Canais |Bloquear canais indesejados |
 
 
 ## Requisitos Não Funcionais

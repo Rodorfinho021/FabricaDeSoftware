@@ -83,7 +83,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Cadestramento| O úsuario se cadastrar com nome,email e senha |
+|RF-001 | Cadastramento| O úsuario se cadastrar com nome,email e senha |
 |RF-002 | Editar Perfil |Úsuario poder adicionar informaçãoes ao perfil |
 |RF-003 | Adicionar Amigos |Adiocionar outras pessoa como amigos |
 |RF-004 | Adicionar Canais |O usuario pode adicionar canais de bate-papo|
@@ -93,7 +93,18 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-008 | Filtrar Canais | O úsuario poder pesquisar contéudos do seu interrese |
 |RF-009 | Reportar| Reportar violação da comunidade |
 |RF-010 | Bloquear Canais |Bloquear canais indesejados |
-
+|RF-011 | Barra de Pesquisa |Pesquisa canais desejados|
+|RF-012 | Sair de canais | O usuario podera sair de canais a qual faz parte |
+|RF-013 | Feedback | O usuario pode dar fedback em canais |
+|RF-014 | Ranking dos usuários | Avera ranking entre os usuarios que mais ajudao com respostas |
+|RF-015 | Canais privados | Haveram canais privados para amigos |
+|RF-016 | Suporte com a empresa | O usuario pode dar ideias ou relatar bugs com a empresa |
+|RF-017 | Notificaçoes | O site mandara notificaçoes para o usuario |
+|RF-018 | Cargos | |Haveram vários cargos em um canal |
+|RF-019 | Salvar | O usuario podera salvar amigos proximos  |
+|RF-020 | Bloquear | O usuario podera bloquear pessoas em especifico |
+|RF-021 | Guia | Os novos usuarios teram acesso a instruçoes de como navegar no site |
+|RF-011 | | |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:

@@ -100,11 +100,10 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-015 | Canais privados | Haveram canais privados para amigos |
 |RF-016 | Suporte com a empresa | O usuario pode dar ideias ou relatar bugs com a empresa |
 |RF-017 | Notificaçoes | O site mandara notificaçoes para o usuario |
-|RF-018 | Cargos | |Haveram vários cargos em um canal |
+|RF-018 | Cargos | Haveram vários cargos em um canal |
 |RF-019 | Salvar | O usuario podera salvar amigos proximos  |
 |RF-020 | Bloquear | O usuario podera bloquear pessoas em especifico |
 |RF-021 | Guia | Os novos usuarios teram acesso a instruçoes de como navegar no site |
-|RF-011 | | |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:

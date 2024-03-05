@@ -83,22 +83,22 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 | Cadastramento| O úsuario se cadastrar com nome,email e senha |
-|RF-002 | Editar Perfil |Úsuario poder adicionar informaçãoes ao perfil |
+|RF-001 | Criar Manter e Excluir Contas| O úsuario se cadastrar com nome,email e senha como exclui-la |
+|RF-002 | Editar Perfil | Úsuario poder adicionar informaçãoes ao perfil como modifica-las as exitentes |
 |RF-003 | Adicionar Amigos |Adiocionar outras pessoa como amigos |
-|RF-004 | Adicionar Canais |O usuario pode adicionar canais de bate-papo|
-|RF-005 | Fazer login |Úsuario fazer login no sistema |
+|RF-004 | Adicionar Canais |O usuario pode adicionar canais de bate-papo inexitente|
+|RF-005 | Fazer login | Úsuario poderá fazer login no sistema com uma conta já cadastrada |
 |RF-006 | Fixar Canais | O úsuario poder fixar seus canais favoritos|
-|RF-007 | Favoritar Canais |O úsuario poder adicionar canais como favorito|
-|RF-008 | Filtrar Canais | O úsuario poder pesquisar contéudos do seu interrese |
-|RF-009 | Reportar| Reportar violação da comunidade |
-|RF-010 | Bloquear Canais |Bloquear canais indesejados |
+|RF-007 | Favoritar Canais |O úsuario poder adicionar canais no qaul ele gostou como favorito|
+|RF-008 | Filtrar Canais | O úsuario poderá pesquisar por canais existentes do seu interrese |
+|RF-009 | Reportar| Reportar violaçãoes de diretrizes da comunidade |
+|RF-010 | Bloquear Canais | Bloquear canais indesejados pelo úsuario |
 |RF-011 | Barra de Pesquisa |Pesquisa canais desejados|
 |RF-012 | Sair de canais | O usuario podera sair de canais a qual faz parte |
-|RF-013 | Feedback | O usuario pode dar fedback em canais |
-|RF-014 | Ranking dos usuários | Avera ranking entre os usuarios que mais ajudao com respostas |
+|RF-013 | Feedback | O úsuario receberá informaçãoes prévias do que contém no canal|
+|RF-014 | Ranking dos usuários | Averá ranking entre os usuarios dos quais mais ajudaram com respostas do canal |
 |RF-015 | Canais privados | Haveram canais privados para amigos |
-|RF-016 | Suporte com a empresa | O usuario pode dar ideias ou relatar bugs com a empresa |
+|RF-016 | Sugestãoes e reporte | O usuario pode dar ideias ou relatar bugs com a empresa |
 |RF-017 | Notificaçoes | O site mandara notificaçoes para o usuario |
 |RF-018 | Cargos | Haveram vários cargos em um canal |
 |RF-019 | Salvar | O usuario podera salvar amigos proximos  |
